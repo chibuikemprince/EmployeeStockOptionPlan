@@ -1,5 +1,3 @@
-Sure, here is a sample README.md file that could be used for an `EmployeeStockOptionPlan` smart contract:
-
 # Employee Stock Option Plan (ESOP) Smart Contract
 
 The Employee Stock Option Plan (ESOP) Smart Contract is a decentralized application that allows companies to manage their employee stock options using blockchain technology. The ESOP Smart Contract allows companies to transfer stock options to employees, set up vesting schedules, and manage stock option exercises, all through a secure and transparent platform.
